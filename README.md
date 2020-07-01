@@ -1,8 +1,14 @@
-# Restaurant-Reservation-and-online-delivary-system
-The backend in completed in Django Rest Framework , it permitts users to register with system and book tables in the restaurant. It will make sure that one user can book only 3 tables for upcoming week, it avoides reserving a lot of table by malicius users.
+# Restaurant-Reservation-and-online-delivery-system
 
-Users can go through menu and order food/either online payment or cash on delivary and restaurant manager can view the orders and take decision either to reject or approve order.
+The backend in completed in Django Rest Framework, it permits users to register with system and book tables in the restaurant. It will make sure that one user can book only 3 tables for upcoming week, it avoids reserving a lot of table by malicious users.
 
-If order is approved , it will move to dispatch and delivary team.
+Users can go through menu and order food through either online payment or cash on delivery and restaurant manager can view the orders and take decision either to reject or approve order.
 
-The project backedn is completed and frontend is completed 20% 
+If order is approved, it will move to dispatch and delivery team.
+
+The project backend is completed and only 20% of frontend is completed.
+
+The website landing page is designed with bootstrap and supports SEO.
+
+Table reservation and food delivary will be done in React JS
+
